@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6289510497533','6289510497533','6285235537084',6285235537084'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6289510497533'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6289510497533' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'IrfanEva' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'IRFANEVA BOT' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'IrfanEva' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.youtube = 'https://youtube.com/channel/UCB2FsP3zAMlcfRz7iVs2D6A'
+global.ig = 'https://instagram.com/irfan_ff9'
+global.mygc = 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8'
 global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.email = 'irfanbotwa@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = 'IRFANEVA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Created By IRFANBOT \n\n\n \n \n\n\n\n\n\n\n\n\n\n\n' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -52,17 +52,17 @@ global.sessionName = 'session'
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 50,
 }
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.thumb = fs.readFileSync('./image/chika.jpg')
-/*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
+global.thumb = fs.readFileSync('./image/ipan.jpg')
+/*global.veloriy = fs.readFileSync('./image/ipan.mp4')*/
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
+global.BgWelcLeav = 'https://telegra.ph/file/89c9bb878ed8bc8bc9f4f.jpg'
 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
